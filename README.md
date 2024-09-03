@@ -78,8 +78,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitraut&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 45%; height:190px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ajitraut&show_icons=true&locale=en" alt="GitHub Stats" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitraut&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height:190px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ajitraut&show_icons=true&locale=en" alt="GitHub Stats" style="height:190px;" />
   </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitraut&" alt="GitHub Streak Stats" style="width: 90%; height:190px; margin-top:35px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitraut&" alt="GitHub Streak Stats" style="height:190px; margin-top:35px;" />
 </div>
